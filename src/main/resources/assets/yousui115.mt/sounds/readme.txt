@@ -1,4 +1,4 @@
 eye-catch.ogg
 negotiate.ogg
 
-�����ĉ������B
+上記のファイルを入れて下さい。
