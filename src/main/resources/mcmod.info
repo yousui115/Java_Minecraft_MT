@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yousui115.mt",
+  "name": "MT",
+  "description": "M.T.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yousui115"],
+  "credits": ":-)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+{
+  "eye-catch": {
+    "category": "neutral",
+    "sounds": ["yousui115.mt:eye-catch"]
+  },
+  "negotiate": {
+    "category": "neutral",
+    "sounds": ["yousui115.mt:negotiate"]
+  }
+}
